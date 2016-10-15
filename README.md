@@ -1,4 +1,4 @@
-# Practice_Image-and-computer-vision
+# Image-and-computer-vision-collection
 
 
 C2. 形態學,DCT, 人臉定位與FFT
